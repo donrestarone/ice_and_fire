@@ -1,5 +1,5 @@
 FactoryGirl.define do
   factory :rider do
-  	name "Cletus"
+  	name "Aegon"
   end
 end
